@@ -1,0 +1,47 @@
+# Python & Virtual Environment
+scraping_env/
+venv/
+.venv/
+env/
+
+# Byte-compiled cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+log/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Machine Learning Model Files
+*.pt
+*.bin
+*.h5
+*.model
+*.pickle
+*.pkl
+*.npy
+*.npz
+*.safetensors
+
+# HuggingFace / NLP Cache
+.cache/
+huggingface/
+*.tfmodel
+
+# Data Files (RAW + PROCESSED)
+data/raw/
+data/processed/
+data/results/
+
+# VS Code
+.vscode/
+*.code-workspace
